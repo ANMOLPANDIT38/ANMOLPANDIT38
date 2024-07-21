@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANMOLPANDIT38" alt="ANMOLPANDIT38" /></a> </p>
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development.
 
 - 📫Contact me **anmolpandit38@gmail.com**
   
