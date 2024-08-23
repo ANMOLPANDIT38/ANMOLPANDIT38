@@ -9,7 +9,6 @@
 
 
 ![logo](https://github.com/AKPCODER38/AKPCODER38/blob/main/banner%20linkdein%20anmol.png)
-<h1 align="center">Hi 👋, I'm Anmol Kumar Pandit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left">
