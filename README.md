@@ -7,8 +7,7 @@
 </p>
 
   <p align="left">🌱<b>I’m currently learning:</b><br>C++ DSA and Web Development.<br><br><b>💬 Interested in:</b><br>DBMS, React, Node.js.</p>
-  
-  - 📫Contact me **anmolpandit38@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akpcoder076" target="blank">
