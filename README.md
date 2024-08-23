@@ -15,7 +15,13 @@
     <img src="https://img.shields.io/badge/-akpcoder076-blue?style=for-the-badge&logo=linkedin" alt="akpcoder076" />
   </a>
 
-<a href="https://www.leetcode.com/akp_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akp_coder" height="30" width="40" /></a>
+<a href="mailto:anmolpandit38@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" alt="Email Badge"/>
+</a>
+ <a href="https://www.leetcode.com/akp_coder">
+        <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge"/>
+    </a>
+
 </p>
 
 <p align="left"> 
