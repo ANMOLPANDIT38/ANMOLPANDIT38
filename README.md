@@ -1,3 +1,13 @@
+
+<h1 align="center"> 
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=280&lines=Hi+there+.+I'm+Anmol+!+👋🏻)](https://github.com/ANMOLPANDIT38)
+
+<img align="center" src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 />  </h1>
+
+<p align="center"> <i> A technophile who loves to innovate, build ground-breaking products and empower developer ecosytems/communities. </i></p>
+
+
 ![logo](https://github.com/AKPCODER38/AKPCODER38/blob/main/banner%20linkdein%20anmol.png)
 <h1 align="center">Hi 👋, I'm Anmol Kumar Pandit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
